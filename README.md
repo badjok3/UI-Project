@@ -12,7 +12,6 @@ Nikola - Article create and Article edit pages
 
 <h1>Pre-project paper drafts:</h1><br>
 <a href="https://github.com/badjok3/UI-Project/blob/master/paper/homepage.jpg">Homepage draft</a><br>
-<a herf="https://github.com/badjok3/UI-Project/blob/master/paper/addAttractions.jpg">Add attractions draft</a><br>
 <a href="https://github.com/badjok3/UI-Project/blob/master/paper/map.jpg">Single article draft</a><br>
 <a href="https://github.com/badjok3/UI-Project/blob/master/paper/singleP.jpg">Single article draft 2.0</a><br>
 Yeah.. we might've mixed some of those up.
