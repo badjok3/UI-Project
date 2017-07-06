@@ -20,3 +20,4 @@ Yeah.. we might've mixed some of those up.
 <h1>Contributions:</h1><br>
 Daniel - Created <a href="https://github.com/badjok3/UI-Project/blob/master/historyPage.png">History page</a><br>
 Lora - Created <a href="https://github.com/badjok3/UI-Project/blob/master/homepage_01.jpg">Homepage as guest</a>, <a href="https://github.com/badjok3/UI-Project/blob/master/homepage_02.jpg">Login Popup</a>, <a href="https://github.com/badjok3/UI-Project/blob/master/homepage_03.jpg">Wishlist Popup</a> and <a href="https://github.com/badjok3/UI-Project/blob/master/singleArticlePage.jpg">Single article page</a><br>
+Nikola - Created <a href="https://github.com/badjok3/UI-Project/blob/master/create-edit%20page.png">Create-Edit page</a><br>
